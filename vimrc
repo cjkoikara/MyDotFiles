@@ -33,7 +33,7 @@
 	set rtp+=~/.vim/bundle/vundle/
 	call vundle#rc()
 	Bundle 'gmarik/vundle'
-	Bundle 'syntastic' 
+	"`Bundle 'syntastic' 
 	Bundle 'Lokaltog/vim-easymotion'
 	Bundle 'altercation/vim-colors-solarized' 
 	Bundle 'https://github.com/tpope/vim-fugitive'
