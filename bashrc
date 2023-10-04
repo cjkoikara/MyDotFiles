@@ -73,30 +73,10 @@ xterm*|rxvt*)
     ;;
 esac
 
-#General
-alias home='cd /home/cjacob'
-alias rhome='cd /root'
+
 
 #Networking
 alias ok="ping google.com"
-
-#SDK
-alias 88sdk='cd /home/cjacob/work-dir/88xx/sdk_new/sdk-new/;source env-setup' 
-alias 83sdk='cd /home/cjacob/work-dir/83xx/sdk/' 
-alias kernel='cd linux/kernel/linux-aarch64' 
-alias mc='make menuconfig'
-alias mca='ARCH=arm64 make menuconfig'
-alias ub='make uboot-build'
-
-#Telnet
-alias telroot='ssh root@10.91.206.195'
-alias tel81='telnet 10.91.206.195'
-alias tel83='telnet 10.91.206.195 7001'
-alias tel78-1='telnet 10.91.206.195 7023'
-alias tel78-2='telnet 10.91.206.195 '
-alias telgbt-1='telnet 10.91.206.195 7020'
-alias telgbt-2='telnet 10.91.206.195 7005'
-alias tel88='telnet 10.91.206.195'
 
 #MISC
 #you are careless girl!!!!
